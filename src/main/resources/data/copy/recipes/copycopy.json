@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "item": "copy:copy",
+    "count": 1
+  }
+}
